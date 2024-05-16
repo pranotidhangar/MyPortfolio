@@ -1,6 +1,7 @@
 # Pranoti's Portfolio Website
 Welcome to my personal portfolio website! 🚀
 This is where I showcase my passion for web developemrnt, highlighting my projects, skills, and experiences. Whether you're a potential employer, collaborator, or simply curious, feel free to explore and get to know me better.
+
 ## Features
 
 - **Projects:** Browse through a collection of my latest and most significant projects, each accompanied by detailed descriptions and, where applicable, live demos or GitHub repositories.
